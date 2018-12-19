@@ -1,2 +1,2 @@
 # blob-detector
-using LoG filter to build blob detector
+using self-build LoG filter to build blob detector
